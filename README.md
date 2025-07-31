@@ -150,6 +150,3 @@ Feedstock Maintainers
 * [@jan-janssen](https://github.com/jan-janssen/)
 * [@specter119](https://github.com/specter119/)
 
-
-<!-- dummy commit to enable rerendering -->
-
