@@ -1,6 +1,6 @@
 context:
   name: autogen-core
-  version: "0.7.1"
+  version: "0.7.2"
   python_min: "3.10"
 
 package:
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/${{ name[0] }}/${{ name|replace("-","_") }}/${{ name|replace("-","_") }}-${{ version }}.tar.gz
-  sha256: b522321a6e776c104c8605310f17381a11068f3ab63ef711d1eaf887832b23b1
+  sha256: 66fe2f46d5d188a88ada90863371b341a8572778d22fe481bf63fb699a3940c8
 
 build:
   noarch: python
